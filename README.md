@@ -37,4 +37,4 @@ print(inmemoryDB.get("A"))
 ```
 
 ## Notes
-If this was an assignment, I would make the instructions clearer, especially about what happens if you try to start a transaction when one is already running. I would also add a few more methods like delete() or clear() so the project feels more complete. It would help to include some starter code so students know how to begin, and I wouldd add test cases that count for points to make grading easier. Overall the assignment is good, it just needs a little more clarity.
+If this was an assignment, I would make the instructions clearer, especially about what happens if you try to start a transaction when one is already running. I would also add a few more methods like delete() or clear() so the project feels more complete. It would help to include some starter code so students know how to begin, and I would add test cases that count for points to make grading easier. 
